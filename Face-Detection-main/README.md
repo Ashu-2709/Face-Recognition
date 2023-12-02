@@ -1,3 +1,6 @@
+install opencv-python  
+and opencv-contrib-python
+
 # Face-Detection
 How to use:
 Run sampleGenerator.py
